@@ -14,4 +14,6 @@ Same process with using cd /root to change directory to root
 
 Used ls -l to list all contents in long format
 
-  
+*Task 5*
+
+We added -a parameter to the previous comman to show hidden files  
