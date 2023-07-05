@@ -28,4 +28,8 @@ I used mkdir -p to create a directory in a chosen path
 
 *Task 8*
 
-I used mv to move the file  
+I used mv to move the file
+
+*Task 9*
+
+We use rm followed by the path*  
