@@ -32,4 +32,8 @@ I used mv to move the file
 
 *Task 9*
 
-We use rm followed by the path*  
+We use rm followed by the path
+
+*Task 10*
+
+We use the rm -r to delete the directory  
