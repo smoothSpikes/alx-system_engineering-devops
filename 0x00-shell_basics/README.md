@@ -16,4 +16,8 @@ Used ls -l to list all contents in long format
 
 *Task 5*
 
-We added -a parameter to the previous comman to show hidden files  
+We added -a parameter to the previous comman to show hidden files
+
+*Task 6*
+
+We combined -n and -l parameter to show users numerically  
