@@ -8,4 +8,4 @@ For the seconf task, we used the same bash scripting with a different command "l
 
 *Task 3*
 
-Same process with using cd /home to change directory to home  
+Same process with using cd /root to change directory to root  
