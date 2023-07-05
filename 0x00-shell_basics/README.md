@@ -20,4 +20,8 @@ We added -a parameter to the previous comman to show hidden files
 
 *Task 6*
 
-We combined -n and -l parameter to show users numerically  
+We combined -n and -l parameter to show users numerically
+
+*Task 7*
+
+I used mkdir -p to create a directory in a chosen path  
