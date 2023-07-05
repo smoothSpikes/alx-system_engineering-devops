@@ -24,4 +24,8 @@ We combined -n and -l parameter to show users numerically
 
 *Task 7*
 
-I used mkdir -p to create a directory in a chosen path  
+I used mkdir -p to create a directory in a chosen path
+
+*Task 8*
+
+I used mv to move the file  
