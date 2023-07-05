@@ -40,4 +40,8 @@ We use the rm -r to delete the directory
 
 *Task 11*
 
-We use cd - to go back  
+We use cd - to go back 
+
+*Task 12*
+
+USed ls -a -l . .. -p /boot  
