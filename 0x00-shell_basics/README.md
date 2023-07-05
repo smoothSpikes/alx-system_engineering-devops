@@ -44,4 +44,8 @@ We use cd - to go back
 
 *Task 12*
 
-USed ls -a -l . .. -p /boot  
+USed ls -a -l . .. -p /boot
+
+*Task 13*
+
+Used files to display file type  
