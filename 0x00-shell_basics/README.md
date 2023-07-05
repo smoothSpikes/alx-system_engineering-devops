@@ -4,4 +4,8 @@ in this task we used #!/bin/bash for bash scripting and we used pwd to display t
 
 *Task 2*
 
-For the seconf task, we used the same bash scripting with a different command "ls" to diplay 
+For the seconf task, we used the same bash scripting with a different command "ls" to diplay
+
+*Task 3*
+
+Same process with using cd /home to change directory to home  
