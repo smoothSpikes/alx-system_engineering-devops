@@ -36,4 +36,8 @@ We use rm followed by the path
 
 *Task 10*
 
-We use the rm -r to delete the directory  
+We use the rm -r to delete the directory
+
+*Task 11*
+
+We use cd .. to go back  
